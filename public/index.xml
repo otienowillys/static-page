@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Willys Otieno</title>
-    <link>https://github.com/otienowillys/static-page/</link>
+    <link>http://localhost:4764/otienowillys/static-page/</link>
     <description>Recent content on Willys Otieno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Apr 2024 19:43:11 -0400</lastBuildDate>
-    <atom:link href="https://github.com/otienowillys/static-page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4764/otienowillys/static-page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Managing Document Versions on GitHub for Hugo Websites</title>
+      <link>http://localhost:4764/otienowillys/static-page/posts/my-second-post/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4764/otienowillys/static-page/posts/my-second-post/</guid>
+      <description>Introduction Updating documents and managing their versions are crucial aspects of maintaining a Hugo website stored in a GitHub repository. This guide provides a step-by-step process for uploading a document with the same name, including a new commit message, and accessing previous versions of the document on GitHub.&#xA;Uploading a Document with the Same Name To update a document on your Hugo site&amp;rsquo;s GitHub repository:&#xA;Navigate to Your Repository: Open your web browser and go to the GitHub page of your Hugo website&amp;rsquo;s repository.</description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>https://github.com/otienowillys/static-page/posts/my-first-post/</link>
+      <link>http://localhost:4764/otienowillys/static-page/posts/my-first-post/</link>
       <pubDate>Tue, 09 Apr 2024 19:43:11 -0400</pubDate>
-      <guid>https://github.com/otienowillys/static-page/posts/my-first-post/</guid>
+      <guid>http://localhost:4764/otienowillys/static-page/posts/my-first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
     </item>
   </channel>
